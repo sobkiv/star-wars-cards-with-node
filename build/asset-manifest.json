@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/star-wars-cards-with-NODE/static/css/main.7fcc349a.css",
+    "main.js": "/star-wars-cards-with-NODE/static/js/main.2c12477b.js",
+    "static/js/787.feb97318.chunk.js": "/star-wars-cards-with-NODE/static/js/787.feb97318.chunk.js",
+    "index.html": "/star-wars-cards-with-NODE/index.html",
+    "main.7fcc349a.css.map": "/star-wars-cards-with-NODE/static/css/main.7fcc349a.css.map",
+    "main.2c12477b.js.map": "/star-wars-cards-with-NODE/static/js/main.2c12477b.js.map",
+    "787.feb97318.chunk.js.map": "/star-wars-cards-with-NODE/static/js/787.feb97318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fcc349a.css",
+    "static/js/main.2c12477b.js"
+  ]
+}
