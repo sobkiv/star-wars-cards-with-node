@@ -1,4 +1,4 @@
-import axios from "axios";
+import axios from 'axios';
 class Service {
   getComponent = async (category, counter) => {
     return await axios
